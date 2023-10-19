@@ -1,0 +1,4 @@
+Pillow
+colorama
+PyPDF4
+qrcode

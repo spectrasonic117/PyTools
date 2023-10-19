@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+EXEC_PATH="/opt/pytools"
+exec ${EXEC_PATH}/pytools.py
